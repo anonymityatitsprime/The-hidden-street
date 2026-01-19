@@ -1,3 +1,5 @@
+Ah nice you have reached till here.now there is another piece of information given.
+
 Noctyx Corp’s internal audit trail references an external document once hosted on a government research domain. The record was cited during oversight reviews, then quietly removed years later.
 
 The link still exists in the logs.
@@ -15,4 +17,7 @@ The original page no longer responds, but its contents were preserved when the s
 Recover the document as it existed in the past and determine:
 
 On which street did Mr. Foster live?
-(Answer is only a single word will all lowercases.)
+(
+The question is of the form “____ Street.”
+The password to the next ZIP file is the single word that completes the blank, written entirely in lowercase.
+).
